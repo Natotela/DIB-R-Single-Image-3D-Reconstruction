@@ -37,7 +37,7 @@ cd ..
 # dataset
 To better reproduce the model, we use the public rendered images of shapenet from DVR repo https://github.com/autonomousvision/differentiable_volumetric_rendering.
 Note it is pretty big (31.5GB).
-Please downlaod the choice 2 to get the renderings for 2D supervised models.
+Please download the choice 2 to get the renderings for 2D supervised models.
 
 # train
 ```
